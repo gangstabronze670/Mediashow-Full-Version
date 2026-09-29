@@ -241,4 +241,4 @@ This repository serves as the official landing page for MediaShow. The software 
 **Get the most recent version of MediaShow today!**
 
 ---
-**Last updated:** 2026-09-28 21:00:12 UTC
+**Last updated:** 2026-09-29 01:23:29 UTC
